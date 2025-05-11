@@ -1,3 +1,11 @@
-##### hi I am ScrapsJT
+# Hi, I'm Jackson! 👋
 
-##### I love to code in python for fun and for school.
+I code in Python and love coding. I code in school and for fun.
+
+## 🔗 Links
+
+[![Youtube](https://img.shields.io/badge/youtube-000?style=for-the-badge&logo=ko)](https://www.youtube.com/@ScrapsJT)
+
+## 🛠 Skills
+
+Python game dev and much more!
